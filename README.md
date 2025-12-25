@@ -24,3 +24,12 @@ A focused task manager for students to organize study, homework, exams, projects
 
 ## 🚀 Getting Started
 
+## 📷 Screenshot
+
+_Add a screenshot of the app UI here once you upload it._
+
+## 🧠 What I Learned
+
+- Using React hooks (`useState`, `useEffect`, `useMemo`) for UI and derived data
+- Persisting data in `localStorage`
+- Designing a small but complete productivity app UI
