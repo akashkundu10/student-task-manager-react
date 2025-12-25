@@ -23,5 +23,4 @@ A focused task manager for students to organize study, homework, exams, projects
 - Clean centered UI with navbar and footer
 
 ## 🚀 Getting Started
-undefined
 
