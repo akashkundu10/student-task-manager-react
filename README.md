@@ -24,6 +24,13 @@ A focused task manager for students to organize study, homework, exams, projects
 
 ## 🚀 Getting Started
 
+To run this project locally:
+
+git clone https://github.com/akashkundu10/student-task-manager-react.git
+cd student-task-manager-react/Task-Manager
+npm install
+npm run dev
+
 ## 📷 Screenshot
 
 _Add a screenshot of the app UI here once you upload it._
