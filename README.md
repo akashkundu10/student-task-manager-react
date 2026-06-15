@@ -31,8 +31,6 @@ cd student-task-manager-react/Task-Manager
 npm install
 npm run dev
 
-## 📷 Screenshot
-
 _Add a screenshot of the app UI here once you upload it._
 
 ## 🧠 What I Learned
